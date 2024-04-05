@@ -25,8 +25,16 @@ You can see a live demo of Fireworks [here](#).
 
 To run Fireworks locally, follow these steps:
 
-1. Clone this repository to your local machine using `git clone https://github.com/gmpsankalpa/fireworks`
-2. Navigate to the project directory: `cd fireworks`
+1. Clone this repository to your local machine:
+
+    ```bash
+    git clone https://github.com/gmpsankalpa/fireworks
+
+2. Navigate to the project directory: 
+
+    ```bash
+    cd fireworks
+
 3. Open `index.html` in your web browser.
 
 ## Usage
