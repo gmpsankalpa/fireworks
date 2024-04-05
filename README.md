@@ -49,6 +49,8 @@ Contributions are welcome! If you'd like to contribute to Fireworks, please foll
 
 This project is licensed under the [MIT License](LICENSE).
 
+---
+
 <p align="center">
 <b>
   Repo Details 🤙
